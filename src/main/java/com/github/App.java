@@ -5,7 +5,7 @@ package com.github;
  * Hello world!
  * Hello
  */
-public class App 
+public class Appdff
 {
     public static void main( String[] args'ds
     {
