@@ -8,6 +8,4 @@ public class Appdff
     	//Comment
         System.out.println( "Hello World!"
     }
-
-password : "abc"
 //foo
