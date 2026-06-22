@@ -7,6 +7,5 @@ public class Appdff
     {
     	//Comment
         System.out.println( "Hello World!"
-    }
-password = "abc@123"                          
+    }                        
 //foo
